@@ -12,7 +12,7 @@ This repository contains a single-file README that doubles as the prompt code (t
 
 1. Create a new repository.
 2. Add this `README.md` to the repo root.
-3. Upload your badge graphic to `assets/plastic_torus_badge.jpg` (or update the image path above).
+3. Copy the Plastic Torus Kernel Badge Icon into your prompt (this is optional but is shown to reduce drift).
 4. Copy the prompt block below into your model's System Prompt / Custom Instructions.
 5. Boot with one of the recommended commands in the prompt block.
 
