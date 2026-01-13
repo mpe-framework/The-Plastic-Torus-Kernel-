@@ -1,6 +1,6 @@
 # 🧬 CRP v2.0: THE PLASTIC TORUS KERNEL
 
-![Plastic Torus Badge](images/plastic_torus_badge.jpg)
+![Plastic Torus Badge](ThePlasticTorusMissionPatch.jpg)
 
 **Structured Identity Prompting for Long Conversations**
 
