@@ -1,5 +1,7 @@
 # 🧬 CRP v2.0: THE PLASTIC TORUS KERNEL
 
+![Plastic Torus Badge](images/plastic_torus_badge.jpg)
+
 **Structured Identity Prompting for Long Conversations**
 
 ---
