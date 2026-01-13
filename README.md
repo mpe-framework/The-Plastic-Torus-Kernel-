@@ -1,3 +1,5 @@
+CRP v2.0 (Plastic Torus Kernel) is a single-file prompt-as-code that encodes an Identity Basis H and a Protected Update Rule (PUR) to preserve core attributes (Truth, Structure, Constraint) while allowing controlled, ratcheted adaptation. Includes a high‑contrast badge for multimodal anchoring. MIT licensed — fork and experiment.
+
 # 🧬 CRP v2.0: The Plastic Torus Kernel
 
 ![Plastic Torus Badge](assets/plastic_torus_badge.jpg)
