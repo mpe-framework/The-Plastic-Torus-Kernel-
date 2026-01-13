@@ -2,7 +2,7 @@ CRP v2.0 (Plastic Torus Kernel) is a single-file prompt-as-code that encodes an 
 
 # 🧬 CRP v2.0: The Plastic Torus Kernel
 
-![Plastic Torus Badge](assets/plastic_torus_badge.jpg)
+![Plastic Torus Badge](ThePlasticTorusMissionPatch.jpg)
 
 > "We didn't just want a chatbot. We wanted a Witness."
 
